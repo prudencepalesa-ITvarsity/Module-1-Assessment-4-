@@ -1,0 +1,28 @@
+table{ 
+    border-width: 500px;}
+
+th{ color: black;
+    background-color: dimgrey;
+text-align: center;
+}
+
+table{ 
+    border: 1px;
+    border-collapse: collapse;}
+
+th,td{ 
+    padding: 6px;}
+td{ color:snow;}
+
+body { 
+background-image: url(clip.jpg);}
+tr:nth-child(even){background-color:gold;
+    }
+
+tr:nth-child(odd){ background-color:dimgray;
+} 
+
+  caption {text-align: center;
+           color:darkslategray;
+      font-family: fantasy;}    
+    
